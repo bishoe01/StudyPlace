@@ -1,2 +1,2 @@
 # StudyPlace
-StudyRoom_Rental System project in University  using Vue
+StudyRoom_Rental System project in University  using React
