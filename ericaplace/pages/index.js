@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-  <div>Si</div>    
+    <section className="h-full w-48 bg-orange-200"></section>
   )
 }
